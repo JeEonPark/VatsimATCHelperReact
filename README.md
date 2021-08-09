@@ -1,5 +1,6 @@
 ## Vatsim ATC Helper
 밧심 초보를 위한 ATC 도우미
+<img width="1162" alt="KakaoTalk_20210726_184558414" src="https://user-images.githubusercontent.com/30366858/128689600-a30c8f40-307b-4a51-89d9-d724c068b0e2.png">
 
 
 # Getting Started with Create React App
